@@ -1,4 +1,6 @@
 # zFacebook
+
+[![Join the chat at https://gitter.im/sapioit/zFacebook](https://badges.gitter.im/sapioit/zFacebook.svg)](https://gitter.im/sapioit/zFacebook?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 A facebook messenger for [Electron](https://github.com/atom/electron). Written in [Electron](https://github.com/atom/electron).
 
 
